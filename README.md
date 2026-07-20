@@ -15,8 +15,8 @@ Aplicación web para agendar citas con temática oscura, desarrollada con **Lara
 ### Backend (Laravel)
 
 # Clonar repositorio
-git clone <url-del-repositorio>
-cd PruebaJuegaEnLinea/backend
+git clone https://github.com/niuwman/prueba-juegaenlinea.git
+cd prueba-juegaenlinea/backend
 
 # Instalar dependencias PHP
 composer install
